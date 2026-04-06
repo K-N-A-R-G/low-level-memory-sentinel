@@ -8,3 +8,15 @@
                 if param.kind in (_VAR_KEYWORD, _KEYWORD_ONLY):
 
 # --- END OF NODE UPDATE ---
+
+
+# --- SYNC DATA BLOCK: CONCURRENT.FUTURES ---
+    'wait',
+    'as_completed',
+    'ProcessPoolExecutor',
+    'ThreadPoolExecutor',
+)
+
+
+
+# --- END OF NODE UPDATE ---
